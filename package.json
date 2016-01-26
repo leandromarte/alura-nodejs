@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/leandromarte/alura-nodejs#readme",
   "dependencies": {
-    "ejs": "^2.3.4",
-    "express": "^4.13.4"
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "mysql": "^2.10.2"
   }
 }
