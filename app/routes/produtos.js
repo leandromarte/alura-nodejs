@@ -8,6 +8,5 @@ module.exports = function (app) {
     });
 
     conn.end();
-    res.render('produtos/lista');
   });
 }
